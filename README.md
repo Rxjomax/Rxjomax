@@ -5,7 +5,7 @@
 ### **Informações** 👇  
 
 - 🔭 I don't work currently
-- 🌱 I'm in the 6th period of computer science school.
+- 🌱 I'm in the 7th period of computer science school.
 - 📫 Contact: jm783311@gmail.com
 
 ##
